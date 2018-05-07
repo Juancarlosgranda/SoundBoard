@@ -13,6 +13,7 @@
 		7D2759B820A0D7D500B57346 /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7D2759B620A0D7D500B57346 /* SoundBoard.xcdatamodeld */; };
 		7D2759BA20A0D7D600B57346 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D2759B920A0D7D600B57346 /* Assets.xcassets */; };
 		7D2759BD20A0D7D600B57346 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D2759BB20A0D7D600B57346 /* LaunchScreen.storyboard */; };
+		7D2759C720A0E22400B57346 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2759C620A0E22400B57346 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7D2759B920A0D7D600B57346 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D2759BC20A0D7D600B57346 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D2759BE20A0D7D600B57346 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D2759C620A0E22400B57346 /* SoundViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7D2759BB20A0D7D600B57346 /* LaunchScreen.storyboard */,
 				7D2759BE20A0D7D600B57346 /* Info.plist */,
 				7D2759B620A0D7D500B57346 /* SoundBoard.xcdatamodeld */,
+				7D2759C620A0E22400B57346 /* SoundViewController.swift */,
 			);
 			path = SoundBoard;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				7D2759B820A0D7D500B57346 /* SoundBoard.xcdatamodeld in Sources */,
 				7D2759B220A0D7D500B57346 /* ViewController.swift in Sources */,
 				7D2759B020A0D7D500B57346 /* AppDelegate.swift in Sources */,
+				7D2759C720A0E22400B57346 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
